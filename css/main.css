@@ -296,11 +296,11 @@ ul li {
 	transform: translateY(0) rotate(-45deg);
 }
 /* ------------------------------------------------------------------------------
-	Banner
+	Bannetr
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-color: #00e8ff;
+	background-color: #0000ff;
 	min-height: 750px;
 }
 .banner-text {
