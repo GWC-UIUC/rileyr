@@ -50,6 +50,8 @@ h5 {
 	letter-spacing: 5px;
 	border: 0;
 	-moz-border-radius: 2px;
+}
+body {
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	display: inline-block;
@@ -296,7 +298,7 @@ ul li {
 /* ------------------------------------------------------------------------------
 	Banner
 -------------------------------------------------------------------------------*/
-
+#ff69b4
 .banner {
 	background-color: #65349c;
 	min-height: 750px;
